@@ -1,1 +1,1 @@
-# comic-cook-gallery
+# comic-book-gallery
